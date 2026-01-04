@@ -2,7 +2,7 @@
   "name": "property-search-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://MC769.github.io/property-search-app",
+  "homepage": "https://mc769.github.io/property-search-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
